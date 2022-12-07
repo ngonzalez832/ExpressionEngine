@@ -1,0 +1,1025 @@
+a:3:{s:4:"time";i:1669705321;s:3:"ttl";i:0;s:4:"data";a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:0;a:6:{s:4:"data";s:105:"
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+
+	";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:16:"ExpressionEngine";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"text";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:4:"Blog";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"text";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:0:"";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:4:"self";s:4:"type";s:20:"application/atom+xml";s:4:"href";s:49:"https://expressionengine.com/blog/rss-feed/cpnews";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-11-07T19:53:21+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"rights";a:1:{i:0;a:5:{s:4:"data";s:30:"Copyright (c) 2022, Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:16:"ExpressionEngine";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"uri";s:28:"http://expressionengine.com/";s:7:"version";s:5:"5.4.3";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:29:"https://expressionengine.com/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:89:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:30:"ExpressionEngine 6.4 &amp; 7.2";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:58:"https://expressionengine.com/blog/expressionengine-6.4-7.2";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:58:"https://expressionengine.com/blog/expressionengine-6.4-7.2";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-11-07T18:55:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-11-07T19:53:21+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:18:"Tom@PacketTide.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:2353:"
+				<p>Hello ExpressionEngine friends.</p>
+
+<p>Today we&#8217;re excited to share with you the release of not <em>just one</em> version of ExpressionEngine but two. Let me introduce them to you.</p>
+
+<h2>ExpressionEngine 6.4</h2>
+
+<p>Version 6.4 is bringing with it the <em>large</em> performance scope that was originally shipped as part of ExpressionEngine 7.0.0. <a href="https://youtu.be/vnEtTUME2b4?t=637">If you want to hear more on HOW we did it, I&#8217;d encourage you to watch this short, few-minute segment of the ExpressionEngine 7 launch event</a>.  In addition to this, we&#8217;re also bringing the global caching options launched with version 7 into version 6.4.  We believe these are important steps to help lower the carbon footprint of all ExpressionEngine sites and we hope you enjoy the added speed!</p>
+
+<p>Check out the <a href="https://docs.expressionengine.com/v6/installation/changelog.html#version-640">changelog</a> for all the goodies!</p>
+
+<h2>ExpressionEngine 7.2</h2>
+
+<p>Version 7.2 is bringing with it new <a href="https://docs.expressionengine.com/latest/add-ons/rte.html#advanced-configuration">customization options</a> for RTE (Rich Text Editors). Further insight into where fields are being used, the ability to edit related content while on the publish page, additional RTL (Right to Left) support in RTE,  and <em>much</em> more</p>
+
+<p>Likewise, check out the <a href="https://docs.expressionengine.com/latest//installation/changelog.html#version-720">changelog</a> for all of the goodies.</p>
+
+<h1>Added to Both Releases</h1>
+
+<h2>Updated checkbox field</h2>
+
+<p>In addition to this, we&#8217;re happy to share that both releases are getting an updated checkbox field (specifically moving selected items to the top), as well as a large development scope by the community.</p>
+
+<h2>Modernization of add-on development</h2>
+
+<p>Starting in version 6.4 and 7.2 add-on developers can now build add-ons by taking advantage of new methodologies to organize their code. This will allow developers to split their extensions, MCPs, and modules into multiple files for better organization of code. Each extension hook, tag, action, and control panel route can optionally be organized into its own files.</p>
+
+<p>A special shout out to <a href="https://github.com/mithra62">Eric Lamb</a> for this contribution!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 07 Nov 2022 18:55:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2343:"<p>Hello ExpressionEngine friends.</p>
+
+<p>Today we&#8217;re excited to share with you the release of not <em>just one</em> version of ExpressionEngine but two. Let me introduce them to you.</p>
+
+<h2>ExpressionEngine 6.4</h2>
+
+<p>Version 6.4 is bringing with it the <em>large</em> performance scope that was originally shipped as part of ExpressionEngine 7.0.0. <a href="https://youtu.be/vnEtTUME2b4?t=637">If you want to hear more on HOW we did it, I&#8217;d encourage you to watch this short, few-minute segment of the ExpressionEngine 7 launch event</a>.  In addition to this, we&#8217;re also bringing the global caching options launched with version 7 into version 6.4.  We believe these are important steps to help lower the carbon footprint of all ExpressionEngine sites and we hope you enjoy the added speed!</p>
+
+<p>Check out the <a href="https://docs.expressionengine.com/v6/installation/changelog.html#version-640">changelog</a> for all the goodies!</p>
+
+<h2>ExpressionEngine 7.2</h2>
+
+<p>Version 7.2 is bringing with it new <a href="https://docs.expressionengine.com/latest/add-ons/rte.html#advanced-configuration">customization options</a> for RTE (Rich Text Editors). Further insight into where fields are being used, the ability to edit related content while on the publish page, additional RTL (Right to Left) support in RTE,  and <em>much</em> more</p>
+
+<p>Likewise, check out the <a href="https://docs.expressionengine.com/latest//installation/changelog.html#version-720">changelog</a> for all of the goodies.</p>
+
+<h1>Added to Both Releases</h1>
+
+<h2>Updated checkbox field</h2>
+
+<p>In addition to this, we&#8217;re happy to share that both releases are getting an updated checkbox field (specifically moving selected items to the top), as well as a large development scope by the community.</p>
+
+<h2>Modernization of add-on development</h2>
+
+<p>Starting in version 6.4 and 7.2 add-on developers can now build add-ons by taking advantage of new methodologies to organize their code. This will allow developers to split their extensions, MCPs, and modules into multiple files for better organization of code. Each extension hook, tag, action, and control panel route can optionally be organized into its own files.</p>
+
+<p>A special shout out to <a href="https://github.com/mithra62">Eric Lamb</a> for this contribution!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:1;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:34:"ExpressionEngine 7 Updated Pricing";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:68:"https://expressionengine.com/blog/expressionengine-7-updated-pricing";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:68:"https://expressionengine.com/blog/expressionengine-7-updated-pricing";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-08-23T16:17:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-08-24T19:36:21+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Andy McCormick";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:19:"Andy@PacketTide.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:3569:"
+				<p>After several weeks of hearing from the community, we&#8217;re happy to announce new pricing for ExpressionEngine 7.</p>
+
+<h2>New Pricing</h2>
+
+<ul>
+<li><strong>Core</strong> - We&#8217;re keeping the Core of ExpressionEngine 7 free! </li>
+<li><strong>Pro</strong> - Pro opens up unlimited control panel users and is initially $249 for the 1st year of updates. After your first year, a Pro license can be renewed for as low as $49/yr.</li>
+<li><strong>MSM</strong> - Each additional MSM site license is $49 for the 1st year of updates, and can then be renewed for as low as $39/year.</li>
+</ul>
+
+<p class="text-center"><a href="/store/purchase-pro" class="bg-red text-white mt-6 inline-block px-8 border border-red border-solid rounded-md text-center text-base font-normal lg:mt-6 leading-50 hover:bg-white hover:text-red " style="color:#fff;">Purchase ExpressionEngine Pro</a></p>
+
+<h2>What&#8217;s Changed</h2>
+
+<h3>User Limits</h3>
+
+<p>Originally we released ExpressionEngine 7 with all of the <a href="/features">new features</a> as well as <a href="/introducing-expressionengine-pro">all the features</a> that were previously only available with a Pro license for Free when a site only needs 1 registered user. If you needed more users (with Control Panel access or without), you needed to purchase a Pro license. We&#8217;ve updated this to now allow <strong>unlimited non-control panel users</strong> in the Core version for free. This allows for more freedom on sites that only need 1 user with Control Panel access, but still want to allow users to register to leave comments, create e-commerce accounts, update content via Channel Forms, or other member functions. If you need more than one user with Control Panel access, a Pro license will still be required.</p>
+
+<h3>Pricing</h3>
+
+<p>Initially, a Pro license for ExpressionEngine 7 was going to remain the same as it had been for ExpressionEngine 6: $199/yr. Our goal is to build ExpressionEngine as a stable platform that everyone can thrive off of. However, it was clear from the community that the current pricing just was missing the mark. In light of this, <strong>we have updated the pricing for ExpressionEngine Pro to $249</strong> for the 1st year of updates. After your first year, a Pro license can be renewed for $49/yr when you subscribe to yearly renewals or $59 for a single year of updates.</p>
+
+<p><strong>MSM licenses have also been reduced</strong> from $99/yr to $49 for the 1st year of updates, and can then be renewed for $39/year when you subscribe to yearly renewals or $49 for a single year of updates.</p>
+
+<h3>Pro With ExpressionEngine 6</h3>
+
+<p>If you need to purchase a Pro license for use with ExpressionEngine 6, these licenses have also been reduced to the above pricing. If you are currently using Pro with ExpressionEngine 6, <strong>your yearly renewal will be reduced to $49/yr</strong>.</p>
+
+<h2>Pro License Discounts</h2>
+
+<p class="text-purple-lighter font-bold leading-none" style="font-size: 3.75rem;margin-bottom: 10px;"><strike class="font-light opacity-40 text-4xl">$249</strike>$189</p>
+
+<p><strong>For the next two weeks (Aug 24 - Sept 7) a Single Site Pro license is on sale for only $189!</strong> No limit on licenses purchased during this sale.</p>
+
+<p class="text-center"><a href="/store/purchase-pro" class="bg-red text-white mt-6 inline-block px-8 border border-red border-solid rounded-md text-center text-base font-normal lg:mt-6 leading-50 hover:bg-white hover:text-red " style="color:#fff;">Purchase ExpressionEngine Pro</a></p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 23 Aug 2022 16:17:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3559:"<p>After several weeks of hearing from the community, we&#8217;re happy to announce new pricing for ExpressionEngine 7.</p>
+
+<h2>New Pricing</h2>
+
+<ul>
+<li><strong>Core</strong> - We&#8217;re keeping the Core of ExpressionEngine 7 free! </li>
+<li><strong>Pro</strong> - Pro opens up unlimited control panel users and is initially $249 for the 1st year of updates. After your first year, a Pro license can be renewed for as low as $49/yr.</li>
+<li><strong>MSM</strong> - Each additional MSM site license is $49 for the 1st year of updates, and can then be renewed for as low as $39/year.</li>
+</ul>
+
+<p class="text-center"><a href="/store/purchase-pro" class="bg-red text-white mt-6 inline-block px-8 border border-red border-solid rounded-md text-center text-base font-normal lg:mt-6 leading-50 hover:bg-white hover:text-red " style="color:#fff;">Purchase ExpressionEngine Pro</a></p>
+
+<h2>What&#8217;s Changed</h2>
+
+<h3>User Limits</h3>
+
+<p>Originally we released ExpressionEngine 7 with all of the <a href="/features">new features</a> as well as <a href="/introducing-expressionengine-pro">all the features</a> that were previously only available with a Pro license for Free when a site only needs 1 registered user. If you needed more users (with Control Panel access or without), you needed to purchase a Pro license. We&#8217;ve updated this to now allow <strong>unlimited non-control panel users</strong> in the Core version for free. This allows for more freedom on sites that only need 1 user with Control Panel access, but still want to allow users to register to leave comments, create e-commerce accounts, update content via Channel Forms, or other member functions. If you need more than one user with Control Panel access, a Pro license will still be required.</p>
+
+<h3>Pricing</h3>
+
+<p>Initially, a Pro license for ExpressionEngine 7 was going to remain the same as it had been for ExpressionEngine 6: $199/yr. Our goal is to build ExpressionEngine as a stable platform that everyone can thrive off of. However, it was clear from the community that the current pricing just was missing the mark. In light of this, <strong>we have updated the pricing for ExpressionEngine Pro to $249</strong> for the 1st year of updates. After your first year, a Pro license can be renewed for $49/yr when you subscribe to yearly renewals or $59 for a single year of updates.</p>
+
+<p><strong>MSM licenses have also been reduced</strong> from $99/yr to $49 for the 1st year of updates, and can then be renewed for $39/year when you subscribe to yearly renewals or $49 for a single year of updates.</p>
+
+<h3>Pro With ExpressionEngine 6</h3>
+
+<p>If you need to purchase a Pro license for use with ExpressionEngine 6, these licenses have also been reduced to the above pricing. If you are currently using Pro with ExpressionEngine 6, <strong>your yearly renewal will be reduced to $49/yr</strong>.</p>
+
+<h2>Pro License Discounts</h2>
+
+<p class="text-purple-lighter font-bold leading-none" style="font-size: 3.75rem;margin-bottom: 10px;"><strike class="font-light opacity-40 text-4xl">$249</strike>$189</p>
+
+<p><strong>For the next two weeks (Aug 24 - Sept 7) a Single Site Pro license is on sale for only $189!</strong> No limit on licenses purchased during this sale.</p>
+
+<p class="text-center"><a href="/store/purchase-pro" class="bg-red text-white mt-6 inline-block px-8 border border-red border-solid rounded-md text-center text-base font-normal lg:mt-6 leading-50 hover:bg-white hover:text-red " style="color:#fff;">Purchase ExpressionEngine Pro</a></p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:2;a:6:{s:4:"data";s:89:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:20:"ExpressionEngine 7.1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:54:"https://expressionengine.com/blog/expressionengine-7.1";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:54:"https://expressionengine.com/blog/expressionengine-7.1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-08-18T14:41:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-08-18T16:06:15+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:18:"Tom@PacketTide.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1456:"
+				<p>Here we are, roughly 2 weeks after the initial launch of <a href="https://expressionengine.com/blog/expressionengine-7-official-release">ExpressionEngine version 7</a>, and today we&#8217;re happy to announce the release of ExpressionEngine 7.1</p>
+
+<h2>Why 7.1?</h2>
+
+<p>When we released ExpressionEngine 7.0 we had planned to include Structure in the core right out of the gate.  Just before release, we concluded it wasn&#8217;t ready JUST yet, so we decided to err on the side of giving it a bit more time and attention to be sure it was in good shape.</p>
+
+<p>Today we&#8217;re happy to share that the Structure integration into the core of ExpressionEngine is ready to go!</p>
+
+<p>Beyond Structure being integrated, version 7 has turned into a fairly large release.  <a href="https://docs.expressionengine.com/latest/installation/changelog.html">Check out the changelog for all the goodies!</a></p>
+
+<h2>What is Structure?</h2>
+
+<p>Structure has long been considered by many to be the premier navigation manager in ExpressionEngine.  Structure lets you create pages, generate navigation, and manage content through a simple hierarchical (Sitemap) interface.</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/Structure_Prolet.png" alt="New File Manager in ExpressionEngine 7">
+</center></figure>
+
+<p>Today we&#8217;re excited to share that Structure is now shipping as part of the ExpressionEngine core.</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 18 Aug 2022 14:41:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1446:"<p>Here we are, roughly 2 weeks after the initial launch of <a href="https://expressionengine.com/blog/expressionengine-7-official-release">ExpressionEngine version 7</a>, and today we&#8217;re happy to announce the release of ExpressionEngine 7.1</p>
+
+<h2>Why 7.1?</h2>
+
+<p>When we released ExpressionEngine 7.0 we had planned to include Structure in the core right out of the gate.  Just before release, we concluded it wasn&#8217;t ready JUST yet, so we decided to err on the side of giving it a bit more time and attention to be sure it was in good shape.</p>
+
+<p>Today we&#8217;re happy to share that the Structure integration into the core of ExpressionEngine is ready to go!</p>
+
+<p>Beyond Structure being integrated, version 7 has turned into a fairly large release.  <a href="https://docs.expressionengine.com/latest/installation/changelog.html">Check out the changelog for all the goodies!</a></p>
+
+<h2>What is Structure?</h2>
+
+<p>Structure has long been considered by many to be the premier navigation manager in ExpressionEngine.  Structure lets you create pages, generate navigation, and manage content through a simple hierarchical (Sitemap) interface.</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/Structure_Prolet.png" alt="New File Manager in ExpressionEngine 7">
+</center></figure>
+
+<p>Today we&#8217;re excited to share that Structure is now shipping as part of the ExpressionEngine core.</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:3;a:6:{s:4:"data";s:89:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:35:"ExpressionEngine 7 Official Release";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:69:"https://expressionengine.com/blog/expressionengine-7-official-release";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:69:"https://expressionengine.com/blog/expressionengine-7-official-release";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-08-03T16:01:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-08-03T16:15:30+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:18:"Tom@PacketTide.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:3563:"
+				<style>
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+</style>
+
+<p>It&#8217;s here.</p>
+
+<p>It&#8217;s been a little less than 2 years since the first release of ExpressionEngine 6, and today we&#8217;re happy to share with the world ExpressionEngine 7.  We know this probably sounds like we&#8217;re exaggerating, but we believe this is one of (if not the) largest releases of ExpressionEngine there&#8217;s ever been.  The best way to explain why this is the case is to watch the video below.</p>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vnEtTUME2b4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h2>Here’s why version 7 changes everything</h2>
+
+<p>For starters, what was previously known as <a href="https://expressionengine.com/blog/introducing-expressionengine-pro">ExpressionEngine Pro</a> has now been rolled directly into ExpressionEngine in version 7, as such pro as a separate upgrade is no more.</p>
+
+<p>This includes:</p>
+
+<ul>
+<li>Front-end editing</li>
+<li>Entry cloning</li>
+<li>Multi-Factor Authentication</li>
+<li>Cookie Management and lifetime overrides</li>
+<li>Control Panel Branding</li>
+<li>The ability to make custom dashboards upon login</li>
+</ul>
+
+<p>Following suit, Low Search, and Low Variables have been rolled into version 7 and renamed to Pro Search and Pro Variables as well.  (To hear more on this, and what it means to existing sites, please see the video above)</p>
+
+<p>In addition to this, we&#8217;re also happy to announce that ExpressionEngine 7 will also be shipping with:</p>
+
+<ul>
+<li>An all-new File Manager powered by Flysys*</li>
+<li>A LARGE widespread performance improvement*</li>
+<li>Structure for building site navigation (launching week of August 8th)*</li>
+<li>Environment File Support*</li>
+<li>Ability to have channel fields side by side in the entry editor</li>
+<li>Grid field supporting vertical alignment</li>
+<li>New Light Control Panel Theme</li>
+<li>Secondary sidebar collapsable throughout the Control Panel</li>
+<li>New Cloud File storage locations</li>
+<li>and <a href="https://docs.expressionengine.com/latest/installation/changelog.html">MUCH MORE&#8230;</a></li>
+</ul>
+
+<p><em>*additional blog posts to come!</em></p>
+
+<h3>When a paid license will be required</h3>
+
+<p>We&#8217;re happy to share that in ExpressionEngine version 7 if you&#8217;re building a site with 1 user, everything mentioned in this post, as well as what&#8217;s coming in version 7 will be free.</p>
+
+<p>If you&#8217;re building a site that requires multiple users, a <a href="https://expressionengine.com/store/purchase-pro">Pro License</a> ($199/year) will be required.</p>
+
+<h2>Thank You!</h2>
+
+<p>In closing, we want to say thank you; thank you to the community at large!  If it wasn&#8217;t for you caring enough about ExpressionEngine to provide feedback, thoughts, kudos, or your personal insights we collectively wouldn&#8217;t be where we are today, and version 7 wouldn&#8217;t be what it is.</p>
+
+<h5>The Quick Peek at the New File Manager:</h5>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/ee7_new_fm.png" alt="New File Manager in ExpressionEngine 7">
+</center></figure>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 03 Aug 2022 16:01:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3553:"<style>
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+</style>
+
+<p>It&#8217;s here.</p>
+
+<p>It&#8217;s been a little less than 2 years since the first release of ExpressionEngine 6, and today we&#8217;re happy to share with the world ExpressionEngine 7.  We know this probably sounds like we&#8217;re exaggerating, but we believe this is one of (if not the) largest releases of ExpressionEngine there&#8217;s ever been.  The best way to explain why this is the case is to watch the video below.</p>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vnEtTUME2b4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h2>Here’s why version 7 changes everything</h2>
+
+<p>For starters, what was previously known as <a href="https://expressionengine.com/blog/introducing-expressionengine-pro">ExpressionEngine Pro</a> has now been rolled directly into ExpressionEngine in version 7, as such pro as a separate upgrade is no more.</p>
+
+<p>This includes:</p>
+
+<ul>
+<li>Front-end editing</li>
+<li>Entry cloning</li>
+<li>Multi-Factor Authentication</li>
+<li>Cookie Management and lifetime overrides</li>
+<li>Control Panel Branding</li>
+<li>The ability to make custom dashboards upon login</li>
+</ul>
+
+<p>Following suit, Low Search, and Low Variables have been rolled into version 7 and renamed to Pro Search and Pro Variables as well.  (To hear more on this, and what it means to existing sites, please see the video above)</p>
+
+<p>In addition to this, we&#8217;re also happy to announce that ExpressionEngine 7 will also be shipping with:</p>
+
+<ul>
+<li>An all-new File Manager powered by Flysys*</li>
+<li>A LARGE widespread performance improvement*</li>
+<li>Structure for building site navigation (launching week of August 8th)*</li>
+<li>Environment File Support*</li>
+<li>Ability to have channel fields side by side in the entry editor</li>
+<li>Grid field supporting vertical alignment</li>
+<li>New Light Control Panel Theme</li>
+<li>Secondary sidebar collapsable throughout the Control Panel</li>
+<li>New Cloud File storage locations</li>
+<li>and <a href="https://docs.expressionengine.com/latest/installation/changelog.html">MUCH MORE&#8230;</a></li>
+</ul>
+
+<p><em>*additional blog posts to come!</em></p>
+
+<h3>When a paid license will be required</h3>
+
+<p>We&#8217;re happy to share that in ExpressionEngine version 7 if you&#8217;re building a site with 1 user, everything mentioned in this post, as well as what&#8217;s coming in version 7 will be free.</p>
+
+<p>If you&#8217;re building a site that requires multiple users, a <a href="https://expressionengine.com/store/purchase-pro">Pro License</a> ($199/year) will be required.</p>
+
+<h2>Thank You!</h2>
+
+<p>In closing, we want to say thank you; thank you to the community at large!  If it wasn&#8217;t for you caring enough about ExpressionEngine to provide feedback, thoughts, kudos, or your personal insights we collectively wouldn&#8217;t be where we are today, and version 7 wouldn&#8217;t be what it is.</p>
+
+<h5>The Quick Peek at the New File Manager:</h5>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/ee7_new_fm.png" alt="New File Manager in ExpressionEngine 7">
+</center></figure>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:4;a:6:{s:4:"data";s:106:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:32:"ExpressionEngine 6.3 has landed!";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:65:"https://expressionengine.com/blog/expressionengine-6.3-has-landed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:65:"https://expressionengine.com/blog/expressionengine-6.3-has-landed";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-04-11T14:34:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-04-11T14:52:56+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:18:"Tom@PacketTide.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:3376:"
+				<p>ExpressionEngine 6.3 has landed! Version 6.3  brings with it a major upgrade to fields in ExpressionEngine.  These upgrades fall into two major categories,  both of which are part of ExpressionEngine Core (not Pro).</p>
+
+<ol>
+<li>Conditional Fields</li>
+<li>New Fieldtypes </li>
+</ol>
+
+<h2>Conditional Fields:</h2>
+
+<p>Conditional fields enable you to deliver clients with first-class content administration, allowing you to show and hide fields based on the input of a given entry.</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/digital_event.gif" alt="Toggle Is this a digital event">
+</center></figure>
+
+<p>Simply put, it’s a more effective way to ensure content integrity as well as a better content admin experience. To learn more about conditional fields <a href="https://expressionengine.com/blog/conditional-fields">check out our blog post here</a> or <a href="https://youtu.be/OcCsy56eeGQ">see it in action.</a></p>
+
+<h2>New Fieldtypes</h2>
+
+<p>ExpressionEngine 6.3.0 also ships with 5 new fieldtypes, to help you better meet your client&#8217;s needs.</p>
+
+<p><strong>Notes Fieldtype:</strong> <span style="font-size: 15px;">(<a href="https://docs.expressionengine.com/v6/fieldtypes/notes.html">Read the docs</a> / <a href="https://youtu.be/XYOjdOm8E9E">Watch the video</a> )</span></p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/note_field.png" alt="Notes fieldtype example in a channel entry">
+</center></figure>
+
+<p><strong>Range Slider Fieldtype:</strong> <span style="font-size: 15px;">(<a href="https://docs.expressionengine.com/v6/fieldtypes/slider.html">Read the docs</a> / <a href="https://youtu.be/zPyPAmVQLNQ">Watch the video</a> )</span></p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/range.png" alt="Range Slider fieldtype example in a channel entry">
+</center></figure>
+
+<p><strong>Value Slider Fieldtype:</strong> <span style="font-size: 15px;">(<a href="https://docs.expressionengine.com/v6/fieldtypes/slider.html">Read the docs</a> / <a href="https://youtu.be/zPyPAmVQLNQ">Watch the video</a> )</span></p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/value.png" alt="Value Slider fieldtype example in a channel entry">
+</center></figure>
+
+<p><strong>Buttons Fieldtype:</strong> <span style="font-size: 15px;">(<a href="https://docs.expressionengine.com/v6/fieldtypes/select.html">Read the docs</a> / <a href="https://youtu.be/8UUh91hWPOs">Watch the video</a> )</span></p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/field_selectable_buttons.png" alt="Buttons fieldtype example in a channel entry">
+</center></figure>
+
+<p><strong>Number Fieldtype</strong> <span style="font-size: 15px;">(<a href="https://docs.expressionengine.com/v6/fieldtypes/number.html">Read the docs</a> / <a href="https://youtu.be/84i7HlkRxfg">Watch the video</a> )</span></p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/field_number.png" alt="Number fieldtype example in a channel entry">
+</center></figure>
+
+<h2>Other Additions</h2>
+
+<p>The 6.3.0 release of ExpressionEngine goes beyond conditional fields and new field types.  Check out <a href="https://docs.expressionengine.com/latest/installation/changelog.html">the full change log</a> for all the goodies!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 11 Apr 2022 14:34:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3366:"<p>ExpressionEngine 6.3 has landed! Version 6.3  brings with it a major upgrade to fields in ExpressionEngine.  These upgrades fall into two major categories,  both of which are part of ExpressionEngine Core (not Pro).</p>
+
+<ol>
+<li>Conditional Fields</li>
+<li>New Fieldtypes </li>
+</ol>
+
+<h2>Conditional Fields:</h2>
+
+<p>Conditional fields enable you to deliver clients with first-class content administration, allowing you to show and hide fields based on the input of a given entry.</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/digital_event.gif" alt="Toggle Is this a digital event">
+</center></figure>
+
+<p>Simply put, it’s a more effective way to ensure content integrity as well as a better content admin experience. To learn more about conditional fields <a href="https://expressionengine.com/blog/conditional-fields">check out our blog post here</a> or <a href="https://youtu.be/OcCsy56eeGQ">see it in action.</a></p>
+
+<h2>New Fieldtypes</h2>
+
+<p>ExpressionEngine 6.3.0 also ships with 5 new fieldtypes, to help you better meet your client&#8217;s needs.</p>
+
+<p><strong>Notes Fieldtype:</strong> <span style="font-size: 15px;">(<a href="https://docs.expressionengine.com/v6/fieldtypes/notes.html">Read the docs</a> / <a href="https://youtu.be/XYOjdOm8E9E">Watch the video</a> )</span></p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/note_field.png" alt="Notes fieldtype example in a channel entry">
+</center></figure>
+
+<p><strong>Range Slider Fieldtype:</strong> <span style="font-size: 15px;">(<a href="https://docs.expressionengine.com/v6/fieldtypes/slider.html">Read the docs</a> / <a href="https://youtu.be/zPyPAmVQLNQ">Watch the video</a> )</span></p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/range.png" alt="Range Slider fieldtype example in a channel entry">
+</center></figure>
+
+<p><strong>Value Slider Fieldtype:</strong> <span style="font-size: 15px;">(<a href="https://docs.expressionengine.com/v6/fieldtypes/slider.html">Read the docs</a> / <a href="https://youtu.be/zPyPAmVQLNQ">Watch the video</a> )</span></p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/value.png" alt="Value Slider fieldtype example in a channel entry">
+</center></figure>
+
+<p><strong>Buttons Fieldtype:</strong> <span style="font-size: 15px;">(<a href="https://docs.expressionengine.com/v6/fieldtypes/select.html">Read the docs</a> / <a href="https://youtu.be/8UUh91hWPOs">Watch the video</a> )</span></p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/field_selectable_buttons.png" alt="Buttons fieldtype example in a channel entry">
+</center></figure>
+
+<p><strong>Number Fieldtype</strong> <span style="font-size: 15px;">(<a href="https://docs.expressionengine.com/v6/fieldtypes/number.html">Read the docs</a> / <a href="https://youtu.be/84i7HlkRxfg">Watch the video</a> )</span></p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/field_number.png" alt="Number fieldtype example in a channel entry">
+</center></figure>
+
+<h2>Other Additions</h2>
+
+<p>The 6.3.0 release of ExpressionEngine goes beyond conditional fields and new field types.  Check out <a href="https://docs.expressionengine.com/latest/installation/changelog.html">the full change log</a> for all the goodies!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:5;a:6:{s:4:"data";s:106:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:18:"Conditional Fields";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:52:"https://expressionengine.com/blog/conditional-fields";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:52:"https://expressionengine.com/blog/conditional-fields";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-04-11T10:34:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-04-25T20:37:57+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:18:"Tom@PacketTide.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:3241:"
+				<style>
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+</style>
+
+<p>Today we&#8217;re excited to release conditional fields as <a href="https://expressionengine.com/blog/expressionengine-6.3-has-landed">part of ExpressionEngine 6.3.0.</a>
+Conditional fields bring the ExpressionEngine content administration experience to the next level. It does this on the fly by changing the fields that are available and required based on content input into the entry in real-time.</p>
+
+<div class="video-container">
+<iframe  style="margin: 0 auto;" src="https://www.youtube.com/embed/OcCsy56eeGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h2>Putting the pieces together</h2>
+
+<p>Let&#8217;s look at a simple example.</p>
+
+<p>If you have an Events channel in ExpressionEngine, you may have a toggle for that event to determine if it&#8217;s a digital event or an in-person event.  Something similar to the following:</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/digital_event.png" alt="'Is Digital' Toggle and shows both fields, zoom link and address">
+</center></figure>
+
+<h3>The old way</h3>
+
+<p>You would then generally have a setup where the &#8220;Zoom Link&#8221; field and &#8220;Address&#8221; field would always be present on the publish page.  That would leave you with a decision to either make them both required, optional, or a combination thereof. Neither of these options is optimal, as one of them in theory shouldn&#8217;t be used on a given event.</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/both_required.png" alt="Toggle Is this a digital event">
+</center></figure>
+
+<h3>Enter Conditional Fields</h3>
+
+<p>With conditional fields, if the toggle is set to digital, we would want to have the &#8220;Zoom Link&#8221; field and have that field marked as required.  At the same time, if the toggle for the event is set to digital, we can have the &#8220;Address&#8221; field hidden.</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/zoom_link.png" alt="Toggle with zoom link">
+</center></figure>
+
+<p>However, if the event is not digital, we would want a simple grid field for the address.  Likewise, we would also want the grid field to be required.</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/address.png" alt="Toggle with address grid">
+</center></figure>
+
+<p>Before conditional fields, you would have both of these fields present simultaneously, and either have all of them required, or none of them required.  Neither of these is an ideal solution to ensure content integrity on your site.</p>
+
+<p>You can now give content admins the flexibility they need with conditional fields while retaining content integrity.</p>
+
+<p>Simply put, it&#8217;s a more effective way to ensure content integrity as well as a better content admin experience.</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 11 Apr 2022 10:34:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3231:"<style>
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+</style>
+
+<p>Today we&#8217;re excited to release conditional fields as <a href="https://expressionengine.com/blog/expressionengine-6.3-has-landed">part of ExpressionEngine 6.3.0.</a>
+Conditional fields bring the ExpressionEngine content administration experience to the next level. It does this on the fly by changing the fields that are available and required based on content input into the entry in real-time.</p>
+
+<div class="video-container">
+<iframe  style="margin: 0 auto;" src="https://www.youtube.com/embed/OcCsy56eeGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h2>Putting the pieces together</h2>
+
+<p>Let&#8217;s look at a simple example.</p>
+
+<p>If you have an Events channel in ExpressionEngine, you may have a toggle for that event to determine if it&#8217;s a digital event or an in-person event.  Something similar to the following:</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/digital_event.png" alt="'Is Digital' Toggle and shows both fields, zoom link and address">
+</center></figure>
+
+<h3>The old way</h3>
+
+<p>You would then generally have a setup where the &#8220;Zoom Link&#8221; field and &#8220;Address&#8221; field would always be present on the publish page.  That would leave you with a decision to either make them both required, optional, or a combination thereof. Neither of these options is optimal, as one of them in theory shouldn&#8217;t be used on a given event.</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/both_required.png" alt="Toggle Is this a digital event">
+</center></figure>
+
+<h3>Enter Conditional Fields</h3>
+
+<p>With conditional fields, if the toggle is set to digital, we would want to have the &#8220;Zoom Link&#8221; field and have that field marked as required.  At the same time, if the toggle for the event is set to digital, we can have the &#8220;Address&#8221; field hidden.</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/zoom_link.png" alt="Toggle with zoom link">
+</center></figure>
+
+<p>However, if the event is not digital, we would want a simple grid field for the address.  Likewise, we would also want the grid field to be required.</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/address.png" alt="Toggle with address grid">
+</center></figure>
+
+<p>Before conditional fields, you would have both of these fields present simultaneously, and either have all of them required, or none of them required.  Neither of these is an ideal solution to ensure content integrity on your site.</p>
+
+<p>You can now give content admins the flexibility they need with conditional fields while retaining content integrity.</p>
+
+<p>Simply put, it&#8217;s a more effective way to ensure content integrity as well as a better content admin experience.</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:6;a:6:{s:4:"data";s:89:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:40:"ExpressionEngine Pro 1.2 - Entry Cloning";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:72:"https://expressionengine.com/blog/expressionengine-pro-1.2-entry-cloning";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:72:"https://expressionengine.com/blog/expressionengine-pro-1.2-entry-cloning";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-02-10T16:26:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-03-29T17:35:27+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:18:"Tom@PacketTide.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1333:"
+				<h3>Entry Cloning</h3>
+
+<p>Today we&#8217;re happy to announce the VERY often requested addition of entry cloning as part of ExpressionEngine Pro 1.2.</p>
+
+<p>Check out the following 1 minute video to see it in action!</p>
+
+<iframe width="600" height="360" src="https://www.youtube.com/embed/cSz7NZdQvGk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>How To Clone Channel Entries</h3>
+
+<p>To clone an entry, open the original entry from the Entry Manager. Then click Save -> Clone to New Entry.</p>
+
+<figure>
+    <center><img src="https://expressionengine.com/asset/img/blog/clone_to_new_entry.png" alt="Clone to New Entry"></center>
+</figure>
+
+<p>You will then be redirected to the new entry. Note that the new entry will have a status of Closed, and the Title will automatically be prefixed with “Copy of” to prevent confusion with your original entry.</p>
+
+<p>Take a peek at the full <a href="https://docs.expressionengine.com/latest/installation/changelog.html">change log</a>!</p>
+
+<p><em>Please note, we consider this phase 1 of entry cloning, while we already have plans in place for phase 2 we&#8217;re eager to hear your feedback to help us shape those plans further!</em></p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 10 Feb 2022 16:26:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1323:"<h3>Entry Cloning</h3>
+
+<p>Today we&#8217;re happy to announce the VERY often requested addition of entry cloning as part of ExpressionEngine Pro 1.2.</p>
+
+<p>Check out the following 1 minute video to see it in action!</p>
+
+<iframe width="600" height="360" src="https://www.youtube.com/embed/cSz7NZdQvGk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>How To Clone Channel Entries</h3>
+
+<p>To clone an entry, open the original entry from the Entry Manager. Then click Save -> Clone to New Entry.</p>
+
+<figure>
+    <center><img src="https://expressionengine.com/asset/img/blog/clone_to_new_entry.png" alt="Clone to New Entry"></center>
+</figure>
+
+<p>You will then be redirected to the new entry. Note that the new entry will have a status of Closed, and the Title will automatically be prefixed with “Copy of” to prevent confusion with your original entry.</p>
+
+<p>Take a peek at the full <a href="https://docs.expressionengine.com/latest/installation/changelog.html">change log</a>!</p>
+
+<p><em>Please note, we consider this phase 1 of entry cloning, while we already have plans in place for phase 2 we&#8217;re eager to hear your feedback to help us shape those plans further!</em></p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:7;a:6:{s:4:"data";s:89:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:29:"ExpressionEngine 6.2 is Here!";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:62:"https://expressionengine.com/blog/expressionengine-6.2-is-here";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:62:"https://expressionengine.com/blog/expressionengine-6.2-is-here";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-01-13T16:01:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-01-13T18:17:05+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:18:"Tom@PacketTide.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:2429:"
+				<p>Today we&#8217;re excited to announce the release of ExpressionEngine 6.2 as well as Pro 1.1!</p>
+
+<p>ExpressionEngine 6.2 has oodles of new additions, fixes, and updates that fall under two main themes.</p>
+
+<h2>Security</h2>
+
+<p>The first is security.  As mentioned in our <a href="https://www.youtube.com/watch?v=QpeygAbaR-0">update video last month</a>, this release is being flagged as a <strong>critical security update.</strong>  Please note this <strong>is not due to a specific critical security bug</strong> that has been fixed, but due to the sheer number of lower severity security items that have been addressed since the initial 6.0.0 release.</p>
+
+<p>ExpressionEngine has long been known for its security, as such, we felt it was time to take a step forward with password requirements, in 6.2.0 we&#8217;re also rolling out a new <a href="https://docs.expressionengine.com/latest/control-panel/settings/security-privacy.html#password-security-policy">Password Security Policy</a>.  Please note, if you previously had &#8220;Require Secure Passwords&#8221; set, this is now considered the &#8220;Basic&#8221; password policy.</p>
+
+<figure>
+    <img src="https://expressionengine.com/asset/img/blog/pw-validation.png" alt="Password Security Policy in Action">
+</figure>
+
+<p>In addition to the new Password Security Policy, we&#8217;ve also added Multi-Factor Authentication to Pro 1.1.</p>
+
+<figure>
+    <center><img src="https://expressionengine.com/asset/img/blog/mfa.png" alt="Multi Factor Authentication"></center>
+</figure>
+
+<h2>Additional Features</h2>
+
+<p>In addition to security, we decided to take the opportunity to sprinkle in roughly 20+ additional feature requests from the community.  While we encourage you to take a peek at the full <a href="https://docs.expressionengine.com/latest/installation/changelog.html">change log</a>, the following are a few noteworthy changes to call out!</p>
+
+<ul>
+<li>Ability to view password on login</li>
+<li>Ability to search by url_title and entry_id in entries manager</li>
+<li>New channel entries parameters</li>
+<li>Improved search performance (<a href="https://github.com/ExpressionEngine/ExpressionEngine/pull/1410">Hat tip to Robson</a>)</li>
+<li>Improve cookie registration</li>
+<li>Performance enhancements</li>
+<li>PHP 8.1 Support</li>
+<li><a href="https://docs.expressionengine.com/latest/installation/changelog.html">Many more</a></li>
+</ul>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 13 Jan 2022 16:01:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2419:"<p>Today we&#8217;re excited to announce the release of ExpressionEngine 6.2 as well as Pro 1.1!</p>
+
+<p>ExpressionEngine 6.2 has oodles of new additions, fixes, and updates that fall under two main themes.</p>
+
+<h2>Security</h2>
+
+<p>The first is security.  As mentioned in our <a href="https://www.youtube.com/watch?v=QpeygAbaR-0">update video last month</a>, this release is being flagged as a <strong>critical security update.</strong>  Please note this <strong>is not due to a specific critical security bug</strong> that has been fixed, but due to the sheer number of lower severity security items that have been addressed since the initial 6.0.0 release.</p>
+
+<p>ExpressionEngine has long been known for its security, as such, we felt it was time to take a step forward with password requirements, in 6.2.0 we&#8217;re also rolling out a new <a href="https://docs.expressionengine.com/latest/control-panel/settings/security-privacy.html#password-security-policy">Password Security Policy</a>.  Please note, if you previously had &#8220;Require Secure Passwords&#8221; set, this is now considered the &#8220;Basic&#8221; password policy.</p>
+
+<figure>
+    <img src="https://expressionengine.com/asset/img/blog/pw-validation.png" alt="Password Security Policy in Action">
+</figure>
+
+<p>In addition to the new Password Security Policy, we&#8217;ve also added Multi-Factor Authentication to Pro 1.1.</p>
+
+<figure>
+    <center><img src="https://expressionengine.com/asset/img/blog/mfa.png" alt="Multi Factor Authentication"></center>
+</figure>
+
+<h2>Additional Features</h2>
+
+<p>In addition to security, we decided to take the opportunity to sprinkle in roughly 20+ additional feature requests from the community.  While we encourage you to take a peek at the full <a href="https://docs.expressionengine.com/latest/installation/changelog.html">change log</a>, the following are a few noteworthy changes to call out!</p>
+
+<ul>
+<li>Ability to view password on login</li>
+<li>Ability to search by url_title and entry_id in entries manager</li>
+<li>New channel entries parameters</li>
+<li>Improved search performance (<a href="https://github.com/ExpressionEngine/ExpressionEngine/pull/1410">Hat tip to Robson</a>)</li>
+<li>Improve cookie registration</li>
+<li>Performance enhancements</li>
+<li>PHP 8.1 Support</li>
+<li><a href="https://docs.expressionengine.com/latest/installation/changelog.html">Many more</a></li>
+</ul>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:8;a:6:{s:4:"data";s:89:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:47:"ExpressionEngine Version 5 End-of-life Reminder";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:81:"https://expressionengine.com/blog/expressionengine-version-5-end-of-life-reminder";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:81:"https://expressionengine.com/blog/expressionengine-version-5-end-of-life-reminder";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2021-11-09T17:13:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2021-11-09T19:40:32+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:18:"Tom@PacketTide.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:981:"
+				<p>ExpressionEngine 5 is at the tail end of its support life and will be completely retired at the end of this year (2021).  Once retired, it will not receive any additional bug fixes or security patches, as designated on our <a href="https://expressionengine.com/support/version-support">Version Support page.</a></p>
+
+<figure>
+    <a href="https://expressionengine.com/support/version-support"><img src="https://expressionengine.com/asset/img/blog/version_support_e5_eol.png" alt="Live Preview in Action"></a>
+</figure>
+
+<p>The good news is that <a href="https://expressionengine.com/support/version-support">ExpressionEngine Version 6 is an LTS (Long Term Support) release,</a> and as such will be supported for 5 more years.  It&#8217;s also an easy upgrade from version 5.</p>
+
+<p>Learn more about why you should upgrade, or to <a href="https://expressionengine.com/upgrades">get in touch with an ExpressionEngine Partner that specializes in upgrades today!</a></p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 09 Nov 2021 17:13:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:971:"<p>ExpressionEngine 5 is at the tail end of its support life and will be completely retired at the end of this year (2021).  Once retired, it will not receive any additional bug fixes or security patches, as designated on our <a href="https://expressionengine.com/support/version-support">Version Support page.</a></p>
+
+<figure>
+    <a href="https://expressionengine.com/support/version-support"><img src="https://expressionengine.com/asset/img/blog/version_support_e5_eol.png" alt="Live Preview in Action"></a>
+</figure>
+
+<p>The good news is that <a href="https://expressionengine.com/support/version-support">ExpressionEngine Version 6 is an LTS (Long Term Support) release,</a> and as such will be supported for 5 more years.  It&#8217;s also an easy upgrade from version 5.</p>
+
+<p>Learn more about why you should upgrade, or to <a href="https://expressionengine.com/upgrades">get in touch with an ExpressionEngine Partner that specializes in upgrades today!</a></p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:9;a:6:{s:4:"data";s:89:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:33:"Introducing ExpressionEngine Pro!";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:66:"https://expressionengine.com/blog/introducing-expressionengine-pro";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:66:"https://expressionengine.com/blog/introducing-expressionengine-pro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2021-10-06T17:46:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2021-10-13T17:38:55+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:18:"Tom@PacketTide.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:5195:"
+				<p>ExpressionEngine has always been loved by the EE community for the impact it&#8217;s had on so many of our lives and careers. Over the years, ExpressionEngine has helped most of us look like rock star designers &amp; developers to our clients!</p>
+
+<p>So two years ago, when the topic of Packet Tide taking the helm of ExpressionEngine first came up, we knew it was something to take seriously. It was a privilege that came with a lot of responsibility.</p>
+
+<h3>Taking Inventory</h3>
+
+<p>As new stewards of ExpressionEngine, we examined the CMS landscape (and accompanying technologies) to not only see where things <em>are,</em> but more importantly where content management needed to <em>go.</em>
+With this mindset, and the EE community in view, it was clear we needed to go beyond the baseline capabilities of 6.0, 6.1, 6.2, etc. We had to raise the bar. We had to push the borders and boundaries.</p>
+
+<h3>Something New</h3>
+
+<p>So we began to ponder&#8230; is there a different paradigm we should consider for the management of ExpressionEngine sites? One that wouldn&#8217;t compromise what ExpressionEngine already is, but could add to the power and flexibility we&#8217;ve all grown accustomed to? What does the future of ExpressionEngine look like? What would it look like to break outside of the confines of the Control Panel?</p>
+
+<p>These types of questions led to the origin of <em>ExpressionEngine Pro.</em></p>
+
+<p>ExpressionEngine Pro was created with the notion that we can pull off <em>not only</em> front-end editing, but full-featured content administration and all of its underlying technology in a streamlined, more efficient, and effective manner than the basic front-end editing methods that exist in other products.</p>
+
+<p>And after two years of hard work, we&#8217;re happy to share the results with you today!</p>
+
+<h3>Meet ExpressionEngine Pro</h3>
+
+<p><a href="https://expressionengine.com/pro">ExpressionEngine Pro</a> adds new layers of features and flexibility to your existing EE sites, including:</p>
+
+<p><strong>Front-End Editing:</strong> Pro makes managing your site&#8217;s content as streamlined as possible. See something you want to change? Enter edit mode and start making your updates directly on the front-end. It’s as simple as that.</p>
+
+<p><strong>The Dock:</strong> The Dock in ExpressionEngine Pro is your front-end command center. It lets you jump into Edit mode to access all of your site&#8217;s content, as well as other features to fine-tune your site&#8217;s functionality.</p>
+
+<p><strong>Add-On Prolets:</strong> Prolets in ExpressionEngine Pro allow you to access the essence of add-ons that are crucial to your site&#8217;s operation, all while browsing the front end of your site.</p>
+
+<p><strong>Member Permissions:</strong> ExpressionEngine Pro intelligently picks up existing user permissions to determine which channels and add-on Prolets a given user can access.</p>
+
+<p><strong>Front-End Entries:</strong> Beyond front-end editing, you can also access your entries listing to quickly and easily access content well beyond the page you&#8217;re currently viewing.</p>
+
+<p><strong>Custom Dashboard:</strong> Easily bring per-site or per-user information front and center. Custom dashboard widgets open the door to third-party applications and services, which easily surface important information.</p>
+
+<p><strong>White Labeling:</strong> ExpressionEngine Pro also introduces the initial steps into white labeling, easily allowing you to add a custom login logo and favicon. (More to come!)</p>
+
+<p><strong>Low Variables:</strong> Tried and true. ExpressionEngine Pro comes with Low Variables, giving you a single interface to manage, create, and edit site-wide variables made from all of the complex fields ExpressionEngine offers.</p>
+
+<p><strong>Low Search:</strong> Pulling the power of Low Search into ExpressionEngine Pro brings with it full-text indexing as well as greater relevance in results by weighting any searchable field.
+These features (and more!) will take your existing ExpressionEngine sites and <em>turn them up to 11!</em></p>
+
+<h3>Get Started</h3>
+
+<p>ExpressionEngine Pro is included with EE 6.1 and can be installed on top of any existing ExpressionEngine 6 site, including sites that have been upgraded from older versions.</p>
+
+<p>We’re also happy to share that ExpressionEngine Pro is free to use in local development, but will require a paid license to run on a production site.  For a quick demo, <a href="https://u.expressionengine.com/article/quick-overview-of-expressionengine-pro">check out this video!</a></p>
+
+<p>For more information on ExpressionEngine Pro, we encourage you to <a href="https://expressionengine.com/pro">check out the new Pro page on the site.</a></p>
+
+<p>ExpressionEngine Pro will be $50 off for the first year until next Friday (October 15th). For more info on the pricing of Pro, <a href="/store/purchase-pro">check out the pricing page.</a></p>
+
+<p>And finally, thanks to everyone in the EE community for your support and encouragement over the last year. It feels great to finally deliver this release into your hands!</p>
+
+<p>Welcome to the new era!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 06 Oct 2021 17:46:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:5185:"<p>ExpressionEngine has always been loved by the EE community for the impact it&#8217;s had on so many of our lives and careers. Over the years, ExpressionEngine has helped most of us look like rock star designers &amp; developers to our clients!</p>
+
+<p>So two years ago, when the topic of Packet Tide taking the helm of ExpressionEngine first came up, we knew it was something to take seriously. It was a privilege that came with a lot of responsibility.</p>
+
+<h3>Taking Inventory</h3>
+
+<p>As new stewards of ExpressionEngine, we examined the CMS landscape (and accompanying technologies) to not only see where things <em>are,</em> but more importantly where content management needed to <em>go.</em>
+With this mindset, and the EE community in view, it was clear we needed to go beyond the baseline capabilities of 6.0, 6.1, 6.2, etc. We had to raise the bar. We had to push the borders and boundaries.</p>
+
+<h3>Something New</h3>
+
+<p>So we began to ponder&#8230; is there a different paradigm we should consider for the management of ExpressionEngine sites? One that wouldn&#8217;t compromise what ExpressionEngine already is, but could add to the power and flexibility we&#8217;ve all grown accustomed to? What does the future of ExpressionEngine look like? What would it look like to break outside of the confines of the Control Panel?</p>
+
+<p>These types of questions led to the origin of <em>ExpressionEngine Pro.</em></p>
+
+<p>ExpressionEngine Pro was created with the notion that we can pull off <em>not only</em> front-end editing, but full-featured content administration and all of its underlying technology in a streamlined, more efficient, and effective manner than the basic front-end editing methods that exist in other products.</p>
+
+<p>And after two years of hard work, we&#8217;re happy to share the results with you today!</p>
+
+<h3>Meet ExpressionEngine Pro</h3>
+
+<p><a href="https://expressionengine.com/pro">ExpressionEngine Pro</a> adds new layers of features and flexibility to your existing EE sites, including:</p>
+
+<p><strong>Front-End Editing:</strong> Pro makes managing your site&#8217;s content as streamlined as possible. See something you want to change? Enter edit mode and start making your updates directly on the front-end. It’s as simple as that.</p>
+
+<p><strong>The Dock:</strong> The Dock in ExpressionEngine Pro is your front-end command center. It lets you jump into Edit mode to access all of your site&#8217;s content, as well as other features to fine-tune your site&#8217;s functionality.</p>
+
+<p><strong>Add-On Prolets:</strong> Prolets in ExpressionEngine Pro allow you to access the essence of add-ons that are crucial to your site&#8217;s operation, all while browsing the front end of your site.</p>
+
+<p><strong>Member Permissions:</strong> ExpressionEngine Pro intelligently picks up existing user permissions to determine which channels and add-on Prolets a given user can access.</p>
+
+<p><strong>Front-End Entries:</strong> Beyond front-end editing, you can also access your entries listing to quickly and easily access content well beyond the page you&#8217;re currently viewing.</p>
+
+<p><strong>Custom Dashboard:</strong> Easily bring per-site or per-user information front and center. Custom dashboard widgets open the door to third-party applications and services, which easily surface important information.</p>
+
+<p><strong>White Labeling:</strong> ExpressionEngine Pro also introduces the initial steps into white labeling, easily allowing you to add a custom login logo and favicon. (More to come!)</p>
+
+<p><strong>Low Variables:</strong> Tried and true. ExpressionEngine Pro comes with Low Variables, giving you a single interface to manage, create, and edit site-wide variables made from all of the complex fields ExpressionEngine offers.</p>
+
+<p><strong>Low Search:</strong> Pulling the power of Low Search into ExpressionEngine Pro brings with it full-text indexing as well as greater relevance in results by weighting any searchable field.
+These features (and more!) will take your existing ExpressionEngine sites and <em>turn them up to 11!</em></p>
+
+<h3>Get Started</h3>
+
+<p>ExpressionEngine Pro is included with EE 6.1 and can be installed on top of any existing ExpressionEngine 6 site, including sites that have been upgraded from older versions.</p>
+
+<p>We’re also happy to share that ExpressionEngine Pro is free to use in local development, but will require a paid license to run on a production site.  For a quick demo, <a href="https://u.expressionengine.com/article/quick-overview-of-expressionengine-pro">check out this video!</a></p>
+
+<p>For more information on ExpressionEngine Pro, we encourage you to <a href="https://expressionengine.com/pro">check out the new Pro page on the site.</a></p>
+
+<p>ExpressionEngine Pro will be $50 off for the first year until next Friday (October 15th). For more info on the pricing of Pro, <a href="/store/purchase-pro">check out the pricing page.</a></p>
+
+<p>And finally, thanks to everyone in the EE community for your support and encouragement over the last year. It feels great to finally deliver this release into your hands!</p>
+
+<p>Welcome to the new era!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:13:{s:6:"server";s:12:"nginx/1.17.3";s:4:"date";s:29:"Wed, 16 Nov 2022 02:27:44 GMT";s:12:"content-type";s:23:"text/xml; charset=utf-8";s:10:"connection";s:10:"keep-alive";s:10:"set-cookie";s:577:"exp_last_visit=1353205663; expires=Thu, 16-Nov-2023 02:27:43 GMT; Max-Age=31536000; path=/; SameSite=Lax; secure; HttpOnly, exp_last_activity=1668565663; expires=Thu, 16-Nov-2023 02:27:43 GMT; Max-Age=31536000; path=/; SameSite=Lax; secure; HttpOnly, exp_csrf_token=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; SameSite=Lax; secure; HttpOnly, exp_csrf_token=7ac2c50f95aca9451b56ae60d86da9fcc99287d5; expires=Wed, 16-Nov-2022 04:27:43 GMT; Max-Age=7200; path=/; SameSite=Lax; secure; HttpOnly, PHPSESSID=qtmvfugc2fbd0css65b5qgit7g; path=/; secure; HttpOnly";s:15:"x-frame-options";s:22:"SAMEORIGIN, SAMEORIGIN";s:7:"expires";s:29:"Mon, 07 Nov 2022 20:53:21 GMT";s:13:"last-modified";s:29:"Mon, 07 Nov 2022 19:53:21 GMT";s:13:"cache-control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"pragma";s:8:"no-cache";s:16:"x-xss-protection";s:13:"1; mode=block";s:22:"x-content-type-options";s:7:"nosniff";s:23:"content-security-policy";s:23:"frame-ancestors 'self';";}s:5:"build";s:14:"20221116021501";}}
