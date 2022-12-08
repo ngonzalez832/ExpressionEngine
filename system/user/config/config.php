@@ -21,5 +21,6 @@ $config['database'] = array(
 	),
 );
 $config['show_ee_news'] = 'y';
+$config['disable_csrf_protection'] = "y";
 
 // EOF

@@ -1,7 +1,7 @@
 {layout="layouts/wrapper2"}
 
 <div class="bg-vid">
-    {exp:channel:entries channel="background"}
+    {exp:channel:entries channel="video_and_audio" status='bg'}
         {audio_video}
         <video src="{audio_video:file}" autoplay muted loop></video>
         {/audio_video}
@@ -12,7 +12,7 @@
 <h2 >Video and Audio</h2>
 <p>The video in this page was edited using Adobe's Premiere Pro <br>Audio was edited using Audacity and Reaper</p>
 </div>  
-<div class="web-list">
+<div class="vid_title">
     <div class="title-spin">
         <span style="--i:1">V</span>
         <span style="--i:2">i</span>
@@ -26,36 +26,44 @@
         <span style="--i:10">i</span>
         <span style="--i:11">o</span>
     </div>
-    <h3>Video filmed by Noah - Commercial Train with Noah</h3>
-    <p>Edited using Premiere Pro 2022</p>
-    <p>(Audio Desing still in progress with Reaper)</p>
-    <video controls
-    src="video/gonzalez-noah-training.mp4" type="video/mp4"
-    src="video/gonzalez-noah-training.webm" type="video/webm"
-    >
-    <p>Video type not supported. Play in a different browser</p>
-    </video>
-    <h3>Audio edited with Reaper audio software</h3>
-    <p>Foley Sound - creation of sounds using a Lapel micropone</p>
-    <audio controls
-     src="audio/foley-noah.wav" type="audio/wav"
-     src="audio/foley-noah.ogg" type="audio/ogg"
-    >
-    <p>Audio file not supported. Play in a different browser</p>
+    </div>
+    {exp:channel:entries channel="video_and_audio"}
+    <div class="media_container">
+        
+        <h3>{project_name}</h3>
+        <p>{description}</p>
+        {audio_video}
+            <video controls
+                src="{video_audio:file}" type="video/mp4"
+                src="" type="video/webm"
+                >
+            <p>{list_name}</p>
+            </video>
+        {/audio_video}   
+    </div>
+    {/exp:channel:entries}
 
-    </audio>
+    <h3>Audio edited with Reaper audio software</h3>
+        <p>Foley Sound - creation of sounds using a Lapel micropone</p>
+        <audio controls
+        src="audio/foley-noah.wav" type="audio/wav"
+        src="audio/foley-noah.ogg" type="audio/ogg"
+        >
+        <p>Audio file not supported. Play in a different browser</p>
+
+        </audio>
     <h3>Audio with caption and transcription</h3>
-    <video class="commercial"  controls
-     src="audio/eclipse-vid.mp4" type="audio/wav"    >
-    <p>Audio file not supported. Play in a different browser</p>
-    <track 
-    label="US English"
-    king="captions"
-    srclang="eng"
-    src="audio/eclipse.vtt"
-    default
-    >
-    </video>
+        <video class="commercial"  controls
+        src="audio/eclipse-vid.mp4" type="audio/wav"    >
+        <p>Audio file not supported. Play in a different browser</p>
+        <track 
+        label="US English"
+        king="captions"
+        srclang="eng"
+        src="audio/eclipse.vtt"
+        default
+        >
+        </video>
     <details>
         <summary>Read Transcription</summary>
         <div><p>ECLIPSE ELLIPTICAL TRAINER.

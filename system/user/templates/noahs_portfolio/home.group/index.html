@@ -1,7 +1,7 @@
 {layout="layouts/wrapper"}
     <main>
     <div class="bg-vid">
-    {exp:channel:entries channel="background"}
+        {exp:channel:entries channel="video_and_audio" status='bg'}
         {audio_video}
         <video src="{audio_video:file}" autoplay muted loop></video>
         {/audio_video}

@@ -1,4 +1,4 @@
-/********** CSS For DIGITAL MEDIA *****/
+a:3:{s:4:"time";i:1670537869;s:3:"ttl";i:0;s:4:"data";a:2:{s:9:"edit_date";i:1670537864;s:13:"template_data";s:4143:"/********** CSS For DIGITAL MEDIA *****/
 
 :root{
     --gray-color:#45464452;
@@ -210,4 +210,4 @@ padding:10px;
         grid-row-start: 2;
     }
 
-}
+}";}}

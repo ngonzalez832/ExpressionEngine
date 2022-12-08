@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bevan&display=swap=EB+Garamond:wght@500&family=Nunito+Sans&display=swap');
+a:3:{s:4:"time";i:1670537421;s:3:"ttl";i:0;s:4:"data";a:2:{s:9:"edit_date";i:1670537417;s:13:"template_data";s:7027:"@import url('https://fonts.googleapis.com/css2?family=Bevan&display=swap=EB+Garamond:wght@500&family=Nunito+Sans&display=swap');
 
 *{
     box-sizing:border-box;
@@ -364,4 +364,4 @@ footer a{
     .web-container{
         display:flex;
     } 
-}
+}";}}
