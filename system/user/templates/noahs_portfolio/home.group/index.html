@@ -1,9 +1,13 @@
 {layout="layouts/wrapper"}
     <main>
     <div class="bg-vid">
-        <video src="video/background-vid2.mp4" autoplay muted loop></video>
+    {exp:channel:entries channel="background"}
+        {audio_video}
+        <video src="{audio_video:file}" autoplay muted loop></video>
+        {/audio_video}
+    {/exp:channel:entries}
     </div>
-    {exp:channel:entries channel="introduction"}
+    {exp:channel:entries channel="introduction" limit="1"}
     <h2 class="web-h2">{title_name}</h2>
     <p class="noah-about web-h2">{blurb}</p>
     {/exp:channel:entries}

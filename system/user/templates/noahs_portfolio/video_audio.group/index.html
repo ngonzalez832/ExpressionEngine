@@ -1,7 +1,11 @@
 {layout="layouts/wrapper2"}
 
 <div class="bg-vid">
-    <video src="video/background-vid2.mp4" autoplay muted loop></video>
+    {exp:channel:entries channel="background"}
+        {audio_video}
+        <video src="{audio_video:file}" autoplay muted loop></video>
+        {/audio_video}
+    {/exp:channel:entries}
 </div>
 <div class="web-container">
 <div class="web-d2 web-p">
