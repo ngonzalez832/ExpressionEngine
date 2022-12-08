@@ -1,0 +1,119 @@
+{layout="layouts/wrapper2"}
+
+<h2 class="web-h2">Digital Media</h2>
+    <div class="title-spin">
+        <span style="--i:1">P</span>
+        <span style="--i:2">h</span>
+        <span style="--i:3">o</span>
+        <span style="--i:4">t</span>
+        <span style="--i:5">o</span>
+        <span style="--i:6">g</span>
+        <span style="--i:7">r</span>
+        <span style="--i:8">a</span> 
+        <span style="--i:9">p</span>
+        <span style="--i:10">h</span>
+        <span style="--i:11">y</span>
+    </div>
+    <!---------START PHOTOGRAPHY GRID--------->
+    <!---------START PHOTOGRAPHY GRID--------->
+    {exp:channel:entries channel="projects1"}
+        <h3>{project_name}</h3>
+        <p>{blurb}</p>
+        <div class="grid-photography grid-img">
+                <figure class="phto1">        
+                {project_images}
+                        <img src="{project_images:file}" alt="">
+                {/project_images}
+                        <figcaption>{description}</figcaption>            
+                </figure>
+                <figure class="phto4">
+                {project_images}
+                        <img src="{project_images:image_3}" alt="">
+                {/project_images}
+                {project_images}
+                        <figcaption>{project_images:image_3_description}</figcaption>
+                {/project_images}
+                </figure>
+                <figure class="phto2">
+                {project_images}
+                        <img src="{project_images:image_4}" alt="">
+                {/project_images}
+                {project_images}
+                        <figcaption>{project_images:image_4_description}</figcaption>
+                {/project_images}
+                </figure> 
+                <figure class="phto3">
+                {project_images}
+                        <img src="{project_images:image_2}" alt="">
+                {/project_images}
+                {project_images}
+                        <figcaption>{project_images:image_2_description}</figcaption>
+                {/project_images}
+                </figure>
+                <figure class="phto5">        
+                {project_images}
+                        <img src="{project_images:image_1}" alt="">
+                {/project_images}
+                {project_images}
+                        <figcaption>{project_images:image_1_description}</figcaption>
+                {/project_images}       
+                </figure> 
+        </div>  
+        {/exp:channel:entries}
+        
+    
+    <!-----------------------PHOTOSHOP------------------>
+    <div class="title-spin">
+        <span style="--i:1">P</span>
+        <span style="--i:2">h</span>
+        <span style="--i:3">o</span>
+        <span style="--i:4">t</span>
+        <span style="--i:5">o</span>
+        <span style="--i:6">s</span>
+        <span style="--i:7">h</span>
+        <span style="--i:8">o</span> 
+        <span style="--i:9">p</span>
+
+{exp:channel:entries channel="project2"}
+     <div class="photoshop-grid grid-img">
+
+        <figure class="photo1">
+         {project_images}
+                <img src="{project_images:file}" alt="">
+        {/project_images}
+                <figcaption>{description}</figcaption>            
+        </figure>
+        <figure class="photo2">
+        {project_images}
+                <img src="{project_images:image_1}" alt="">
+        {/project_images}
+        {project_images}
+                <figcaption>{project_images:image_1_description}</figcaption>
+         {/project_images}       
+        </figure> 
+        <figure class="photo5">
+                {project_images}
+                <img src="{project_images:image_2}" alt="">
+        {/project_images}
+        {project_images}
+                <figcaption>{project_images:image_2_description}</figcaption>
+         {/project_images}       
+        </figure> 
+        <figure class="photo3">
+                {project_images}
+                <img src="{project_images:image_3}" alt="">
+        {/project_images}
+        {project_images}
+                <figcaption>{project_images:image_3_description}</figcaption>
+         {/project_images}       
+        </figure> 
+        <figure class="photo4">
+                {project_images}
+                <img src="{project_images:image_4}" alt="">
+                {/project_images}
+        </figure>
+     </div>
+{/exp:channel:entries}
+</main>
+</body>
+</html>

@@ -5,9 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Noah Gonzalez  </title>
-    <link rel="stylesheet" type="text/css" href="{stylesheet='demo/main'}">
+    <link rel="stylesheet" type="text/css" href="{stylesheet='layouts/main'}">
 </head>
-<body>
+<body class="{template_group}">
     {exp:channel:entries channel="header"}
     <header class="home-header">
         {project_images}
@@ -16,10 +16,10 @@
         <h1 class="home-h1"><span>{title_name}</span>Gonzalez</h1>
     {/exp:channel:entries}
         <nav>
-            <li class="w-d"><a href="web-design.html">Web Design</a></li>
-            <li class="d-m"><a href="digital-media.html">Digital Media</a></li>
+            <li class="w-d"><a href="{homepage}/projects_2">Web Design</a></li>
+            <li class="d-m"><a href="{homepage}/projects">Digital Media</a></li>
             <li class="f"><a href="fitness.html">Fitness</a></li>
-            <li class="c"><a href="contact.html">Contact</a></li>
+            <li class="c"><a href="{homepage}/contact">Contact</a></li>
         </nav>
     </header>
 
