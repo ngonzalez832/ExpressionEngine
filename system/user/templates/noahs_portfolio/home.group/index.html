@@ -1,7 +1,7 @@
 {layout="layouts/wrapper"}
     <main>
     <div class="bg-vid">
-        {exp:channel:entries channel="video_and_audio" status='bg'}
+        {exp:channel:entries channel="video" status='bg'}
         {audio_video}
         <video src="{audio_video:file}" autoplay muted loop></video>
         {/audio_video}
@@ -9,7 +9,7 @@
     </div>
     {exp:channel:entries channel="introduction" limit="1"}
     <h2 class="web-h2">{title_name}</h2>
-    <p class="noah-about web-h2">{blurb}</p>
+    <section class="noah-about web-h2">{blurb}</section>
     {/exp:channel:entries}
 
 </main>

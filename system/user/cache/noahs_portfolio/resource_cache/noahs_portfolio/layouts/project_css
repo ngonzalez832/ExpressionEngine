@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1670537869;s:3:"ttl";i:0;s:4:"data";a:2:{s:9:"edit_date";i:1670537864;s:13:"template_data";s:4143:"/********** CSS For DIGITAL MEDIA *****/
+a:3:{s:4:"time";i:1670724809;s:3:"ttl";i:0;s:4:"data";a:2:{s:9:"edit_date";i:1670724805;s:13:"template_data";s:4166:"/********** CSS For DIGITAL MEDIA *****/
 
 :root{
     --gray-color:#45464452;
@@ -36,15 +36,18 @@ p{
 
   .grid-photography{
     display:grid;
+    border:0;
     grid-template-columns:repeat(6, minmax(40px,250px));
     width:100%;
-    gap:5px;
+    gap:2px;
     max-width:100%;
 }
 .grid-img img{
+    margin:0;
     width:100%;
     height:auto;
     object-fit:cover;
+    padding:0;
 }
 figcaption{
     background-color:#e6e6e6;
@@ -105,8 +108,7 @@ padding:10px;
     display:grid;
     grid-template-columns:repeat(6, minmax(40px,250px));
     width:100%;
-    gap:10px;
-    padding:15px;
+    gap:3px;
     max-width:100%;
 }
 .photo1 {
@@ -178,7 +180,7 @@ padding:10px;
         display:grid;
         grid-template-columns:repeat(10, minmax(40px,250px));
         width:100%;
-        gap:10px;
+        gap:3px;
     }
     .photo1 {
         grid-column-start: 1;

@@ -1,7 +1,7 @@
 {layout="layouts/wrapper2"}
 
 <div class="bg-vid">
-    {exp:channel:entries channel="video_and_audio" status='bg'}
+    {exp:channel:entries channel="video" status='bg'}
         {audio_video}
         <video src="{audio_video:file}" autoplay muted loop></video>
         {/audio_video}
@@ -9,8 +9,10 @@
 </div>
 <div class="web-container">
 <div class="web-d2 web-p">
-<h2 >Video and Audio</h2>
-<p>The video in this page was edited using Adobe's Premiere Pro <br>Audio was edited using Audacity and Reaper</p>
+{exp:channel:entries channel="introduction" status="video_heading"}
+    <h2>{title_name}</h2>
+    <section>{blurb}</section>
+{/exp:channel:entries}
 </div>  
 <div class="vid_title">
     <div class="title-spin">
@@ -27,50 +29,42 @@
         <span style="--i:11">o</span>
     </div>
     </div>
-    {exp:channel:entries channel="video_and_audio"}
+    {exp:channel:entries channel="video"}
     <div class="media_container">
         
         <h3>{project_name}</h3>
-        <p>{description}</p>
-        {audio_video}
+            <p>{description}</p>
+                {audio_video}
             <video controls
-                src="{video_audio:file}" type="video/mp4"
-                src="" type="video/webm"
-                >
-            <p>{list_name}</p>
-            </video>
-        {/audio_video}   
+                    src="{video_audio:file}" type="video/mp4"
+                    >
+                {/audio_video}
+                <p>{error_message}</p>
+                    <track 
+                    label="US English"
+                    king="captions"
+                    srclang="eng"
+                    src="{caption}"
+                    default
+                    >
+            </video>           
     </div>
     {/exp:channel:entries}
 
-    <h3>Audio edited with Reaper audio software</h3>
-        <p>Foley Sound - creation of sounds using a Lapel micropone</p>
-        <audio controls
-        src="audio/foley-noah.wav" type="audio/wav"
-        src="audio/foley-noah.ogg" type="audio/ogg"
-        >
-        <p>Audio file not supported. Play in a different browser</p>
-
-        </audio>
-    <h3>Audio with caption and transcription</h3>
-        <video class="commercial"  controls
-        src="audio/eclipse-vid.mp4" type="audio/wav"    >
-        <p>Audio file not supported. Play in a different browser</p>
-        <track 
-        label="US English"
-        king="captions"
-        srclang="eng"
-        src="audio/eclipse.vtt"
-        default
-        >
-        </video>
-    <details>
-        <summary>Read Transcription</summary>
-        <div><p>ECLIPSE ELLIPTICAL TRAINER.
-
-            One Smart Workout…One Smart Machine!
-            
-            With the Eclipse Elliptical Trainer and this short instructional video, you will lose weigh,strengthen your heart and lungs, firm and sculpt your buns and thighs. All in just 20 minutes a day. Studies prove that ellipticals burn more calories than bikes, more calories than stair climbers. That's one smart workout. Just like professional models, Eclipse features a completely smooth, solid elliptical motion that's very low impact so it's easy on your body...</p></div>
-    </details>
+    {exp:channel:entries channel="audio"}
+        <div class="media_container">
+        <h3>{project_name}</h3>
+            <p>{description}</p>
+            {audio_video}
+            <audio controls
+                src="{audio_video:file}" type="audio/wav">
+                <p>{error_message}</p>
+                </audio>
+            {/audio_video}
+            <details>
+                <summary>{text_field}</summary>
+                <div>{blurb}</div>
+            </details>
+        </div>
+    {/exp:channel:entries}
 </div>
-</div>  
